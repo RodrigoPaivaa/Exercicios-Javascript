@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(115.68deg, #AAAAAA -15.64%, #242424 108.26%);
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+}
+.clock {
+position: absolute;
+width: 542.04px;
+height: 669.53px;
+left: 966px;
+top: 224px;
+}
+.buy {
+position: absolute;
+width: 335px;
+height: 91px;
+left: 198px;
+top: 735px;
+}
+.container1 {
+  
+}
